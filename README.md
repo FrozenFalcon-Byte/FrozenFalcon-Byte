@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my portfolio<br>Looking forward to learn DSA thoroughly<br>Interested in Web Development (Especially Frontend)<br>I want to make cool websites<br>
+I'm currently working on my portfolio<br>Looking forward to learn DL thoroughly<br>Interested in Web Development, Machine Learning and GenAI<br>
 
 
 ## 🌐 Socials:
